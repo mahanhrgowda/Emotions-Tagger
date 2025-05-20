@@ -6,7 +6,7 @@ from bhava_csv_batch_processor import process_csv
 import tempfile
 
 st.set_page_config(page_title="Bhāva Name Engine", page_icon="🕉", layout="centered")
-st.title("🌸 Bhāva Name Engine v1.0")
+st.title("🌸 Bhāva Name Engine by Mahān !!!")
 st.markdown("Map your name to its **emotive essence**, **chakra flow**, and **Rasa** — inspired by Sanskrit phonetics and classical dramaturgy.")
 
 st.header("🔤 Single Name Bhāva Tagger")
